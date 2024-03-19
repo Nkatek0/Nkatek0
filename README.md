@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Nkatek0
-- 👀 I’m interested in software engineering
+- 👋 Hi, I’m Nkateko
+- 👀 I’m interested in everything that has the word software in it, if it were possible i would just learn everything
 - 🌱 I’m currently learning Python and Java at WeThinkCode_
 - 😄 Pronouns: She
 - ⚡ Fun fact: I am very good at reading peoples character so tread carefully😄
